@@ -1,2 +1,5 @@
-# ignore the data folder
+# ignore the followings folders
 data/
+db/
+docs/
+LaMini-T5-738M/
